@@ -1,0 +1,4 @@
+com/crudjueves/app/entidades/Agenda.class
+com/crudjueves/app/controller/AgendaController.class
+com/crudjueves/app/entidades/repositorio/ReposotorioAgenda.class
+com/crudjueves/app/CrudjuevesApplication.class
